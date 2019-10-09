@@ -6,5 +6,5 @@ def square_array(array)
    puts numbers[counter]**2
    counter += 1
     end
-    array
+    array **2
 end
