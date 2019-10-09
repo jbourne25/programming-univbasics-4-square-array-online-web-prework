@@ -1,4 +1,4 @@
-def square_array(numbers)
+def square_array(array)
   numbers = []
   counter = 0
 
@@ -6,5 +6,5 @@ def square_array(numbers)
    puts numbers[counter]**2
    counter += 1
     end
-    square_array
+    numbers
 end
